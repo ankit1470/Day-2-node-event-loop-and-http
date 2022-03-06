@@ -1,0 +1,23 @@
+
+[
+    {
+        "book1":"Atomic Habits",
+        "description":"Atomic Habits is the definitive guide to breaking bad behaviors and adopting good ones in four steps, showing you how small, incremental, everyday routines compound into massive, positive change over time."
+    },
+     {
+        "book2":"Psychology of money",
+        "description":"The Psychology of Money by Morgan Housel is a book about investing, personal finance and business decisions. Housel describes how financial decisions are typically taught as a math-based field, where data and formulas tell us exactly what to do."
+    },
+     {
+        "book3":"The Alchemist",
+        "description":"The Alchemist tells the story of a young shepherd named Santiago who is able to find a treasure beyond his wildest dreams. Along the way, he learns to listen to his heart and, more importantly, realizes that his dreams, or his Personal Legend, are not just his but part of the Soul of the Universe."
+    },
+    {
+        "book4":"The monk who sold his ferrari",
+        "description":"The Monk Who Sold His Ferrari tells the extraordinary story of Julian Mantle, a lawyer forced to confront the spiritual crisis of his out-of-balance life, and the subsequent wisdom that he gains on a life-changing odyssey that enables him to create a life of passion, purpose and peace."
+    }
+
+]
+
+
+  
